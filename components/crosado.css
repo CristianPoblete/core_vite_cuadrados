@@ -1,0 +1,28 @@
+.cuadrado-rosado {
+        margin: 20px;
+        width: 1000px;
+        margin-top: 0px;
+        background-color: pink;
+        height: 500px;
+        padding-right: 40px;
+
+        display: flex;
+        flex-direction: column;
+        justify-content: space-around
+        
+
+    }
+
+    
+.filaazul {
+    margin-top: 20px;
+    margin-left: 40px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+
+.cverde {
+    position:sticky;
+    
+};

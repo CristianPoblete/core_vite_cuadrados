@@ -1,0 +1,25 @@
+.contenedor {
+    display: flex;
+    justify-content: center;
+}
+
+.gris {
+    margin-top: 30px;
+    background-color: gray;
+    height: 800px;
+    width: 1500px;
+    display: flex; 
+    flex-direction: column; 
+
+   
+}
+
+.columnas {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin-top: 20px;
+}
+
+
+
